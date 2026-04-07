@@ -7,7 +7,7 @@ Passive web application security assessment conducted as part of a cybersecurity
 | Target | https://juice-shopherokuapp.com |
 | Type | Intentionally vulnerable web application (OWASP) |
 | Date | 05 April, 2026 |
-| Analyst | Mubeen |
+| Analyst | Mubeen Waheed |
 
 ## Scope & Ethics
 This assessment was strictly passive and read-only. No exploitation, active attacks, or data modification were performed. OWASP Juice Shop is a deliberately vulnerable application built for security training - testing it is fully authorised and ethical.
